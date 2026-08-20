@@ -11,6 +11,7 @@ QRIS, dan moderasi testimoni.
 
 **Live demo:** [hanmagym.infinityfreeapp.com](https://hanmagym.infinityfreeapp.com)
 **Mockup:**[MockupHanmaFitness](https://raw.githubusercontent.com/DediRiyantoRpl1/hanmafitness/refs/heads/main/hanma%20parkir.png)
+**Flowchart:**[FlowchartHanmaFitness](https://raw.githubusercontent.com/DediRiyantoRpl1/hanmafitness/refs/heads/main/flowcart.png)
 
 ## 1. Struktur Folder
 
