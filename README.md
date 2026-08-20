@@ -10,6 +10,7 @@ Selain alur parkir dasar (masuk/keluar/struk), aplikasi ini juga dilengkapi fitu
 QRIS, dan moderasi testimoni.
 
 **Live demo:** [hanmagym.infinityfreeapp.com](https://hanmagym.infinityfreeapp.com)
+**Mockup:**[MockupHanmaFitness](https://raw.githubusercontent.com/DediRiyantoRpl1/hanmafitness/refs/heads/main/hanma%20parkir.png)
 
 ## 1. Struktur Folder
 
